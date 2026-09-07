@@ -9,6 +9,12 @@
 - 实践计算机视觉、自然语言处理等应用
 - 探索强化学习、大模型等前沿技术
 
+## 文档规范
+
+- **`plt` 对象内所有文本（title/xlabel/ylabel/legend/text 等）使用英文，旁加中文注释**
+  - 例：`plt.title('Linear Regression Fit')  # 线性回归拟合`
+  - 例：`plt.xlabel('Study Time (hours)')  # 学习时长（小时）`
+
 ## 环境配置
 
 ### 基础环境要求
